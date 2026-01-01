@@ -1,6 +1,6 @@
 {
   "name": "z-code-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for orchestrating Claude Code sessions with HEAD/SUB coordination",
   "author": "Zeliper",
   "repository": {
